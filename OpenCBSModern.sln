@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenCBS.Core", "OpenCBS.Core\OpenCBS.Core.csproj", "{932B05CE-8C16-4FFE-9C4E-BCC763D5917E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenCBS.Api", "OpenCBS.Api\OpenCBS.Api.csproj", "{4ABD2D16-3191-4701-91B1-DC1FAD9493DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenCBS.Tests", "OpenCBS.Tests\OpenCBS.Tests.csproj", "{9ABB5AC3-F45B-43C9-9697-F543C292FD2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{932B05CE-8C16-4FFE-9C4E-BCC763D5917E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{932B05CE-8C16-4FFE-9C4E-BCC763D5917E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{932B05CE-8C16-4FFE-9C4E-BCC763D5917E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{932B05CE-8C16-4FFE-9C4E-BCC763D5917E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ABD2D16-3191-4701-91B1-DC1FAD9493DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ABD2D16-3191-4701-91B1-DC1FAD9493DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ABD2D16-3191-4701-91B1-DC1FAD9493DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ABD2D16-3191-4701-91B1-DC1FAD9493DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ABB5AC3-F45B-43C9-9697-F543C292FD2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ABB5AC3-F45B-43C9-9697-F543C292FD2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ABB5AC3-F45B-43C9-9697-F543C292FD2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ABB5AC3-F45B-43C9-9697-F543C292FD2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
